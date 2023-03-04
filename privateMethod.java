@@ -6,6 +6,7 @@ public class privateMethod {
         
     }
     
+    
 }
 
     (int a) ->{
